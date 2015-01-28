@@ -1,0 +1,6 @@
+{
+  "name": "upt/linktest1",
+  "dependencies": {
+    ":link/test": "yehonal/upttest"
+  }
+}
