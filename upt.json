@@ -1,6 +1,7 @@
 {
   "name": "upt/linktest1",
   "dependencies": {
-    ":link/test": "yehonal/upttest"
+    ":link/test": "yehonal/upttest",
+    "@testdyn" : "yehonal/upttest3"
   }
 }
