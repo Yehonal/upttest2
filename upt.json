@@ -1,6 +1,6 @@
 {
   "name": "upt/linktest1",
-  "author" : "yehona2",
+  "author" : "yehonal3",
   "dependencies": {
     ":link/test": "yehonal/upttest"
   }
