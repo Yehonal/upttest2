@@ -3,7 +3,7 @@
   "author" : "yehonal11",
   "dependencies": {
     ":link/test3": "yehonal/upttest",
-    "%testdyn" : "yehonal/upttest3",
+    "%testdyn" : "yehonal/upttest3"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
