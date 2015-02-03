@@ -4,7 +4,6 @@
   "dependencies": {
     ":link/test3": "yehonal/upttest",
     "%testdyn" : "yehonal/upttest3",
-    "%datastore" : "wowengine/lib-datastores"
   },
   "version": "1.0.1"
 }
