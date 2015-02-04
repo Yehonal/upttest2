@@ -1,9 +1,9 @@
 {
   "name": "upt/linktest5",
-  "author" : "yehonal111",
+  "author" : "yehonal1112",
   "dependencies": {
     ":link/test3": "yehonal/upttest",
     "%testdyn" : "yehonal/upttest3"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
